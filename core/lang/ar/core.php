@@ -2,14 +2,14 @@
 
 $LANG = array(
 
-'L_LANGUE'						=> 'English',
+'L_LANGUE'						=> 'العربية',
 
-'L_DATE_CREATION'				=> 'Creation date',
-'L_DATE_UPDATE'					=> 'Date updated',
+'L_DATE_CREATION'				=> 'تاريخ الإنشاء',
+'L_DATE_UPDATE'					=> 'تاريخ تحديث',
 
 # common
-'L_PLUXML_VERSION'				=> 'PluXml version',
-'L_HOMEPAGE'					=> 'Homepage',
+'L_PLUXML_VERSION'				=> 'PluXml إصدار',
+'L_HOMEPAGE'					=> 'الصفحة الرئيسية',
 'L_UNCLASSIFIED'				=> 'Uncategorized',
 'L_INFO_PHP_VERSION'			=> 'PHP version',
 'L_INFO_MAGIC_QUOTES'			=> 'State of "magic quotes"',
