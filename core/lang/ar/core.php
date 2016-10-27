@@ -10,15 +10,15 @@ $LANG = array(
 # common
 'L_PLUXML_VERSION'				=> 'PluXml إصدار',
 'L_HOMEPAGE'					=> 'الصفحة الرئيسية',
-'L_UNCLASSIFIED'				=> 'Uncategorized',
-'L_INFO_PHP_VERSION'			=> 'PHP version',
-'L_INFO_MAGIC_QUOTES'			=> 'State of "magic quotes"',
-'L_INFO_CHARSET'				=> 'charset',
+'L_UNCLASSIFIED'				=> 'غير مصنف',
+'L_INFO_PHP_VERSION'			=> 'PHP إصدار',
+'L_INFO_MAGIC_QUOTES'			=> 'حالة "magic quotes"',
+'L_INFO_CHARSET'				=> 'محارف',
 
 # index.php
-'L_ERR_THEME_NOTFOUND'			=> 'Main PluXml theme not found',
-'L_ERR_FILE_NOTFOUND'			=> 'PluXml target file not found',
-'L_ERR_PAGE_NOT_FOUND'			=> 'Page not found',
+'L_ERR_THEME_NOTFOUND'			=> 'لم يتم العثور على القالب الرئيسي',
+'L_ERR_FILE_NOTFOUND'			=> 'PluXml الملف الهدف غير موجود',
+'L_ERR_PAGE_NOT_FOUND'			=> 'لم يتم العثور على الصفحة',
 
 # class.plx.date.php
 'L_SHORT_JANUARY'				=> 'jan',
